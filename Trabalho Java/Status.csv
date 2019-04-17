@@ -1,0 +1,30 @@
+statusID;Descrição
+1;Construção da E.F finalizada
+2;Envio de aprovação da E.F. Aguardando aprovação
+3;Recebimento da aprovação da E.F
+4;Envio para fábrica para contagem
+5;Recebimento da contagem
+6;Envio do orçamento para sinalização de desenvolvimento
+7;Demanda sinalizada que será desenvolvida. Apresentar no pré-comitê
+8;Enviada para desenvolvimento (fábrica)
+9;Desenvolvimento finalizado. Disponível testes
+10;Executando testes (analista funcional)
+11;Ajuste solicitado
+12;Ajuste finalizado
+13;Testar em PRD
+14;Aguardando homologação do usuário
+15;Aguardando usuário p/ homologação
+16;Teste finalizado (analista funcional)
+17;Homologação do usuário finalizada. Aguardando execução da RDM
+18;Disponível em produção
+19;Aguardando publicação ambiente homologação
+20;Aguardando aprovação da Chance Request
+21;Construção da E.F pendente
+22;Cancelado/Encerrado
+23;Suspenso
+30;Aprovada no pré-comitê. Aguardando aprovação comitê oficial
+31;Reprovada no pré-comitê
+32;Aprovada no comitê oficial. Aguardando transf. de verba
+33;Transferido para a nova fila de demandas
+36;Aguardando aprovação do comitê
+37;Aprovada no comitê. Aguardando desenvolvimento
